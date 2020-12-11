@@ -1,25 +1,25 @@
 # ncc-java-core-basic
 
-**[Interface vs Abstract class](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/interface-vs-abstract)**
+**[Interface vs Abstract class](./interface-vs-abstract)**
 
 Overriding vs Overloading
 
-**[Mutable vs Immutable, String vs String Buffer vs String Builder](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/string-vs-string-buffer-vs-string-builder)**
+**[Mutable vs Immutable, String vs String Buffer vs String Builder](./string-vs-string-buffer-vs-string-builder)**
 
-**[String pool](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/string-pool)**
+**[String pool](./string-pool)**
 
-**[Pass by value vs Pass by reference](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/pass-by-value-vs-pass-by-reference)**
+**[Pass by value vs Pass by reference](./pass-by-value-vs-pass-by-reference)**
 
-**[Final variable, final method, final class](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/final)**
+**[Final variable, final method, final class](./final)**
 
-**[Static variable, static method, static class](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/static)**
+**[Static variable, static method, static class](./static)**
 
-**[Try/catch vs Throw Exception](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/handle-exception)**
+**[Try/catch vs Throw Exception](./handle-exception)**
 
-**[Synchronize vs Asynchronize](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/synchronize-vs-asynchronize)**
+**[Synchronize vs Asynchronize](./synchronize-vs-asynchronize)**
 
-**[Lambda, Collection stream](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/lambda-expressions)**
+**[Lambda, Collection stream](./lambda-expressions)**
 
-**[Collections, hashmap, hashset](https://github.com/nccasia/ncc-java-core-basic/tree/main/tree/main/collections)**
+**[Collections, hashmap, hashset](./collections)**
 
 ArrayList vs LinkedList
