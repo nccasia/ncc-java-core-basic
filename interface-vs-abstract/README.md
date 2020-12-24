@@ -127,7 +127,13 @@ Interface in java provide a way to achieve abstraction. Java interface is also u
         c.getRadius();
         
 ## Difference Between Interface and Abstract Class
-*source*: https://javapapers.com/core-java/abstract-and-interface-core-java-2/difference-between-a-java-interface-and-a-java-abstract-class/
+*source*: 
+*   https://javapapers.com/core-java/abstract-and-interface-core-java-2/difference-between-a-java-interface-and-a-java-abstract-class/
+*   https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-java/
+*   https://www.javatpoint.com/difference-between-abstract-class-and-interface
+*   https://www.guru99.com/interface-vs-abstract-class-java.html
+
+
 
 1. Main difference is methods of a Java interface are implicitly abstract and cannot have implementations. A Java abstract class can have instance methods that implements a default behavior.
 2. Variables declared in a Java interface is by default final. An  abstract class may contain non-final variables.
