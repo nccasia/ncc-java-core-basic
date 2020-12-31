@@ -8,7 +8,7 @@ Overriding vs Overloading
 
 **[String pool](./string-pool)**
 
-**[Pass by value vs Pass by reference](./pass-by-value-vs-pass-by-reference)**
+**[Passing Mechanism in Java](./passing-in-java)**
 
 **[Final variable, final method, final class](./final)**
 
