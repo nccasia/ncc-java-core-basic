@@ -86,4 +86,23 @@ But we can change the properties of Cat instance:
     
 ### Final Fields
 
+Final fields can be either constants or write-once fields.
+
+Note that according to naming conventions, class constants should be uppercase, with components separated by underscore (“_”) characters:
+
+    static final int MAX_WIDTH = 999;
+    
+Note that any final field must be initialized before the constructor completes.
+
+### Final Arguments
+
+A final argument can’t be changed inside a method:
+
+    public void methodWithFinalArguments(final int x) {
+        x=1;
+    }
+    
+The above assignment causes the compiler error:
+
+    The final local variable x cannot be assigned. It must be blank and not using a compound assignment        
                                 
